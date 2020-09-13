@@ -1,0 +1,11 @@
+Package: RTutorCompetitionPolicy
+Type: Package
+Title: RTutor problem set RTutorCompetitionPolicy
+Version: 1.1
+Date: 2020-13-09
+Author: Julian Latzko
+Maintainer: Julian Latzko <julian.latzko@web.de>
+Description: RTutor problem set RTutorCompetitionPolicy
+License: Creative Commons (CC BY-SA)
+	 Package code: GPL >= 2.0
+Depends: RTutor, ggplot2, dplyr, stargazer, lfe, treemap, tidyr, skimr, gridExtra, corrplot, AER, ggridges, knitr
